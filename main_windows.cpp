@@ -9,7 +9,7 @@
 #include "Prey.h"
 #include "Predator.h"
 #include "Arena.h"
-
+ 
 const int delay = 200000; // микросекунды
 
 // Функция, проверяющая нажатие клавиши
